@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- ![Master-Header]() -->
+<img alt="Coding" width="100%" height="400px" margin-left="20%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<!--
-**Revathi-666/Revathi-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Emojis Header -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cloud%20With%20Lightning%20And%20Rain.webp" alt="Cloud With Lightning And Rain" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Rainbow.webp" alt="Rainbow" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Wine%20Glass.webp" alt="Wine Glass" width="75" height="75" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="75" height="75" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=I'm+Challapalli+Revathi;Cyber+Security+Student;Python+%7C+MERN+%7C+Cloud" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">Cyber Security Student | FullStack Developer | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity+%26+Development;Learning+Something+New+Everyday;Building+Projects+With+Python+%26+MERN" alt="Typing SVG" />
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
+---
+
+## 👩‍💻 About Me
+- 🎓 B.Tech CSE (Cyber Security), Kakinada Institute of Engineering & Technology  
+- 🔭 Currently building and refining my `GitHub portfolio` with **Cybersecurity** and **FullStack projects**  
+- 🌱 Learning `Ethical Hacking`, `Cloud Security`, **DevOps + Security Tools** (SIEM, IDS/IPS, Firewalls)  
+- 👯 Open to collaborating on **Cybersecurity & Web Development projects**  
+- 🤔 Interested in **zero-trust security best practices** & scalable application design  
+- 💬 Ask me about **Cybersecurity fundamentals, MERN Stack, Python, Cloud**  
+- 📫 Reach me:  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:challapallirevathi444@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revathi-challapalli/)  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: Love to explore **AI + Security crossovers** 🚀  
+
+---
+
+## 🛣️ My Learning Roadmap
+
+<p align="center">
+  <a href="https://roadmap.sh" target="_blank">
+    <img src="<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68aed34a891a1beee1a50fe7?variant=light" alt="roadmap.sh"/></a>"/>
+  </a>
+</p>
+
+```mermaid
+graph LR
+  A[Cybersecurity Basics] --> B[Ethical Hacking / Pentesting]
+  B --> C[Cloud Security]
+  C --> D[Incident Response & Forensics]
+  D --> E[DevSecOps Pipelines]
+  E --> F[Threat Intelligence]
+  F --> G[Advanced Network Security]
